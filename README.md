@@ -1,6 +1,6 @@
 # Animate Skincare Backend API
 
-Simple REST API untuk technical test backend.
+REST API untuk technical test backend.
 
 Dibuat menggunakan:
 
@@ -26,8 +26,7 @@ Dibuat menggunakan:
 
 ```bash
 git clone https://github.com/anuterbang/backend-test.git
-cd backend-test
-```
+
 
 ### 2️⃣ Install Dependencies
 
