@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 return [
 
     /*
@@ -16,9 +18,9 @@ return [
     */
 
     'defaults' => [
-    'guard' => 'api',   
-    'passwords' => 'users',
-],
+        'guard' => 'api',
+        'passwords' => 'users',
+    ],
 
     /*
     |--------------------------------------------------------------------------
